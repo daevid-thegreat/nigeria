@@ -1,6 +1,6 @@
 export default function Facts() {
   return (
-      <div className={'px-24 py-14'}>
+      <div className={'px-24 my-24'}>
      <p className={'text-4xl text-primary font-medium text-center'}>
          Quick Facts
      </p>
