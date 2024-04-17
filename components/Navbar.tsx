@@ -18,7 +18,7 @@ export default function Navbar() {
                   Culture
               </Link>
               <Link href={''}>
-                  Sport
+                  Food
               </Link>
           </div>
       </div>
