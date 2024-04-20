@@ -24,6 +24,7 @@ const config: Config = {
     extend: {
       fontFamily: {
           ojuju: ['Ojuju', 'sans-serif'],
+          montserrat: ['Montserrat', 'sans-serif'],
       }
     },
   },
